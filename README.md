@@ -3,3 +3,14 @@ Hey there! 👋  Welcome to my Spotify Clone project — a sleek and modern recr
 
 ![My Project](Photos/project.png)
 
+✨ Features
+✅ Play/pause songs
+✅ Next/previous track navigation
+✅ Dynamic progress bar
+✅ Responsive UI for mobile and desktop
+✅ Animated music controls
+✅ Custom playlist (if you’ve implemented it)
+✅ Display song details (title, artist, cover art)
+
+
+
