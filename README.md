@@ -15,9 +15,16 @@ Hey there! 👋  Welcome to my Spotify Clone project — a sleek and modern recr
 
 ✅ Animated music controls
 
-✅ Custom playlist (if you’ve implemented it)
+✅ Custom playlist
 
-✅ Display song details (title, artist, cover art)
+✅ Use of grid,media-query,CSS Specificity & Cascade,Box Model etc
+
+
+
+-author
+
+Parth Sakpal
+
 
 
 
