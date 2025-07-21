@@ -19,7 +19,6 @@ Hey there! 👋  Welcome to my Spotify Clone project — a sleek and modern recr
 
 ✅ Use of grid,media-query,CSS Specificity & Cascade,Box Model etc
 
--Discla
 
 -author
 
