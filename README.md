@@ -13,7 +13,7 @@ Hey there! 👋  Welcome to my Spotify Clone project — a sleek and modern recr
 
 ✅ Responsive UI for mobile and desktop.
 
-✅ Animated music controls
+✅ Animated music controls.
 
 ✅ Custom playlist
 
