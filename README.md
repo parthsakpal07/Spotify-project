@@ -15,7 +15,7 @@ Hey there! 👋  Welcome to my Spotify Clone project — a sleek and modern recr
 
 ✅ Animated music controls.
 
-✅ Custom playlist
+✅ Custom playlist.
 
 ✅ Use of grid,media-query,CSS Specificity & Cascade,Box Model etc
 
