@@ -11,7 +11,7 @@ Hey there! 👋  Welcome to my Spotify Clone project — a sleek and modern recr
 
 ✅ Dynamic progress bar.
 
-✅ Responsive UI for mobile and desktop
+✅ Responsive UI for mobile and desktop.
 
 ✅ Animated music controls
 
