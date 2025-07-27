@@ -5,9 +5,9 @@ Hey there! 👋  Welcome to my Spotify Clone project — a sleek and modern recr
 
 ✨ Features -
 
-✅ Play/pause songs.
+✅ Play/pause songs
 
-✅ Next/previous track navigation.
+✅ Next/previous track navigation
 
 ✅ Dynamic progress bar
 
