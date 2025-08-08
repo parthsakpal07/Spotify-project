@@ -9,7 +9,7 @@ Hey there! 👋  Welcome to my Spotify Clone project — a sleek and modern recr
 
 ✅ Next/previous track navigation
 
-✅ Dynamic progress bar
+✅ Dynamic progress bar.
 
 ✅ Responsive UI for mobile and desktop.
 
